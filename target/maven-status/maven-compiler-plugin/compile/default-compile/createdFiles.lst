@@ -1,0 +1,14 @@
+coffee/OrderController.class
+coffee/Requested.class
+coffee/Order.class
+coffee/PolicyHandler.class
+coffee/external/CancelationService.class
+coffee/external/Cancelation.class
+coffee/Ordered.class
+coffee/AbstractEvent.class
+coffee/OrderApplication.class
+coffee/AbstractEvent$1.class
+coffee/OrderUpdated.class
+coffee/config/kafka/KafkaProcessor.class
+coffee/OrderCanceled.class
+coffee/OrderRepository.class
